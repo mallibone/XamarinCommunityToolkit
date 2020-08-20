@@ -354,4 +354,10 @@
   <data name="Time" xml:space="preserve">
     <value>Time</value>
   </data>
+  <data name="MediaElementDescription" xml:space="preserve">
+    <value>MediaElement is a view for playing video and audio.</value>
+  </data>
+  <data name="MediaElementTitle" xml:space="preserve">
+    <value>MediaElement</value>
+  </data>
 </root>

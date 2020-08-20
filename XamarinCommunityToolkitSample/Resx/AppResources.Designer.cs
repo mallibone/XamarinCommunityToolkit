@@ -240,18 +240,6 @@ namespace Xamarin.CommunityToolkit.Sample.Resx {
             }
         }
         
-        internal static string UriValidationDescription {
-            get {
-                return ResourceManager.GetString("UriValidationDescription", resourceCulture);
-            }
-        }
-        
-        internal static string UriValidationShortDescription {
-            get {
-                return ResourceManager.GetString("UriValidationShortDescription", resourceCulture);
-            }
-        }
-
         /// <summary>
         ///   Looks up a localized string similar to This sample demonstrates how to use EventToCommandBehavior. Here we observe Clicked event of the button and trigger IncrementCommand from ViewModel..
         /// </summary>
@@ -429,6 +417,24 @@ namespace Xamarin.CommunityToolkit.Sample.Resx {
         internal static string MaskedShortDescription {
             get {
                 return ResourceManager.GetString("MaskedShortDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MediaElement is a view for playing video and audio..
+        /// </summary>
+        internal static string MediaElementDescription {
+            get {
+                return ResourceManager.GetString("MediaElementDescription", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to MediaElement.
+        /// </summary>
+        internal static string MediaElementTitle {
+            get {
+                return ResourceManager.GetString("MediaElementTitle", resourceCulture);
             }
         }
         
