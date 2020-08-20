@@ -102,4 +102,7 @@
       <Compile Include="**\*.tizen.cs" />
       <Compile Include="**\*.tizen.*.cs" />
     </ItemGroup>
+    <ItemGroup>
+      <PackageReference Include="System.ValueTuple" Version="4.5.0" />
+    </ItemGroup>
 </Project>
