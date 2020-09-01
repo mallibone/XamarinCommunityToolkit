@@ -410,4 +410,7 @@ It converts the entered text to Upper Case and checks that it is Not Equal to th
   <data name="DateTimeOffsetConverterShortDescription" xml:space="preserve">
     <value>A converter that allows to convert from a DateTimeOffset type to a DateTime type.</value>
   </data>
+  <data name="DateTimeOffsetDescription" xml:space="preserve">
+    <value>The DatePicker bellow is bound to a Property of type DateTimeOffset.</value>
+  </data>
 </root>
